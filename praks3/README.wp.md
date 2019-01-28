@@ -20,3 +20,8 @@
 * Flushisn kõik privileegid
 * Muutsin my.cnf files bind aadressi
 * Profit
+
+# Praks7
+* DokuWiki seadsin ma üles selle õpetuse järgi: https://www.digitalocean.com/community/tutorials/how-to-install-dokuwiki-with-nginx-on-an-ubuntu-12-04-vps
+* Selles õpetuses ignoreerisin ma nginx osa ja seadsin DokuWiki töötama apache2 peale
+* Töötavast lahendusest on pilt (praks7.png)
